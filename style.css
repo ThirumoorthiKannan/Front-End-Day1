@@ -1,0 +1,59 @@
+
+body,.class1
+{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    background-color: skyblue;
+}
+h1
+{
+    font-size: 26px;
+    text-align: justify;
+}
+
+button
+{
+   background-color: green;
+   border: solid 10px  grey;
+   float: right;
+   margin-right: 10%;
+   margin-bottom: 50%;
+   border-radius: none;
+}
+.rr
+{
+    border: solid 1px white;
+    background-color: rgb(21, 187,76);
+}
+img{
+    float: left;
+}
+
+p{
+    font-size:large;
+    
+    text-align: justify;
+}
+
+ol
+{
+    text-align: justify;
+}
+
+ul
+{
+    text-align: justify;
+}
+
+h2{
+    text-align:justify;
+}
+
+h3
+{
+    text-align: justify;
+}
+
+
+
